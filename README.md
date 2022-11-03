@@ -1,1 +1,2 @@
-# MVC_PowerPoint
+# MVC Powerpoint
+This is a Powerpoint I made to help some people in 100Devs understand MVC. I added it as a PDF as well just in case you don't have a Powerpoint. You can view the Google Slides link here: https://docs.google.com/presentation/d/1LapFvIZulR6XA1yqFWaKencX7a0A8Jr0OA1sMX8sYT0/edit?usp=sharing.  I added a few examples in the slides, but if you want to see a program that uses it, check out my D&D 5e character creator application on my GitHub, https://github.com/AndrewArkwright/DnD5eHelper.
